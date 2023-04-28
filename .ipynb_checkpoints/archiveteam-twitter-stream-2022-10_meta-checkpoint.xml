@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>archiveteam-twitter-stream-2022-10</identifier>
+  <collection>twitterstream</collection>
+  <collection>archiveteam</collection>
+  <mediatype>data</mediatype>
+  <scanner>Internet Archive Python library 2.3.0</scanner>
+  <title> Archive Team Twitter Grabs 2022-10</title>
+  <uploader>sketch@cow.net</uploader>
+  <publicdate>2022-11-16 01:50:30</publicdate>
+  <addeddate>2022-11-16 01:50:30</addeddate>
+  <description>A simple collection of JSON grabbed from the general twitter stream, for the purposes of research, history, testing and memory. This is the "Spritzer" version, the most light and shallow of Twitter grabs. Unfortunately, we do not currently have access to the Sprinkler or Garden Hose versions of the stream.</description>
+</metadata>
