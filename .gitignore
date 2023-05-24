@@ -2,3 +2,8 @@ CA2_V1_ML.ipynb
 *.tar
 *.json.gz
 *.ini
+draft.ipynb
+.ipynb_checkpoints/
+Forecasting/Backups/
+Sentiment Analysis/Sentimental_Analysis-BKP.ipynb
+Sentimental_Analysis-BKP.ipynb
